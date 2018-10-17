@@ -1,11 +1,17 @@
 # 使用该规范的企业
 
-如果你公司认可该规范，并在生产中使用，请参考联系我们。请加入下面列表。
+感谢以下企业的贡献：
+
+<img src="/img/zhishutang-logo.jpg" width = "280" height = "100" alt="知数堂" />   http://zhishutang.com
+
+<img src="/img/hujiang-logo.png" width = "280" height = "100" alt="沪江网" />   http://www.hujiang.com
 
 
-![知数堂w300h200](/img/zhishutang-logo.png)   http://zhishutang.com
+## 加入方法
 
-
+1. 认可该开发规范及并在企业使用
+2. 针对该开发规中不合理规则提出建议并修复
+3. 发送公司的开发规范给： wubx#zhishutang.com 并表示愿意加入上面列表，附带Logo及相关信息。
 
 
 
